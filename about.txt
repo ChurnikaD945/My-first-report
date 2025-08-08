@@ -2,4 +2,7 @@ My Name is Churnika
 
 I am Studying Final year BSc(Cs)
 
+
 GitHub is the version control. It is the online platform to develop the applications .
+
+GitHub allows you to create, store, change, merge, and collaborate on files or code.
